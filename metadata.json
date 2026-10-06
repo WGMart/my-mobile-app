@@ -1,0 +1,6 @@
+{
+  "name": "SuperHub",
+  "description": "All-in-one super app for chatting, audio and video calls, file sharing, marketplace with Telebirr, E-Birr, M-Pesa, in-app wallet, live delivery tracking, and online tasks earning system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
